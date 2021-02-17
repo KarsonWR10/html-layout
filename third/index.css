@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+    width: 100vw
+}
+
+.first{
+    height: 10%;
+    width: 100%;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.minibox{
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(35, 209, 240);
+}
+.second{
+    height: 30%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.steak{
+    margin: 50px;
+    font-size: 20px;
+    font-style: normal;
+}
+.third{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(35, 209, 240);
+}
+.fourth{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(39, 228, 187);
+}
+.fifth{
+    height: 15%;
+    width: 100%;
+    background-color: rgb(132, 192, 92);
+}
+.sixth{
+    height: 15%;
+    width: 100%;
+    background-color: yellow;
+}
